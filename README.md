@@ -81,16 +81,6 @@ The project involves several key steps:
 
 ## Authors
 
-- [Your Name](https://github.com/yourusername)
+- [Your Name](https://github.com/DishantB0411)
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Inspiration and data source: [DrivenData Competition](https://www.drivendata.org/competitions/66/flu-shot-learning/)
-
----
-
-Feel free to customize the sections based on your preferences and add more details as necessary. This template provides a structured overview of your project for others to understand and use.
