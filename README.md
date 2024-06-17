@@ -81,6 +81,6 @@ The project involves several key steps:
 
 ## Authors
 
-- [Your Name](https://github.com/DishantB0411)
+- [Dishant Bothra](https://github.com/DishantB0411)
 
 
