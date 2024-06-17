@@ -64,6 +64,9 @@ The dataset consists of two main files:
   - seaborn
   - matplotlib
   - scikit-learn
+ 
+## Precaution
+Rerunning the program might cause the parameters for best_model may change so according to changed parameter we can tune the model.
 
 ## Usage
 
