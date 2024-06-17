@@ -50,7 +50,7 @@ The dataset consists of two main files:
 
 - `README.md`: Overview of the project and instructions.
 - `dataset and all/`: Directory containing training and test datasets.
-- `vaccine_prediction.ipynb`: Jupyter notebook containing the complete code for data preprocessing, model training, and prediction.
+- `Dishant_Bothra_Datahack.ipynb`: Jupyter notebook containing the complete code for data preprocessing, model training, and prediction.
 - `final_csv`: Submission file containing predicted probabilities for the test dataset.
 
 ## Requirements
