@@ -1,3 +1,5 @@
+The project is made under the DataHack hackathon by IIT Guwahati.
+
 # Vaccine Prediction Model
 
 This repository contains the code for predicting the likelihood of individuals getting vaccinated against XYZ and seasonal influenza. The prediction is performed using machine learning models, primarily logistic regression, after extensive data preprocessing and feature engineering.
@@ -50,7 +52,7 @@ The dataset consists of two main files:
 
 - `README.md`: Overview of the project and instructions.
 - `dataset and all/`: Directory containing training and test datasets.
-- `Dishant_Bothra_Datahack.ipynb`: Jupyter notebook containing the complete code for data preprocessing, model training, and prediction.
+- `vaccine_prediction_dishant_dothra.ipynb`: Jupyter notebook containing the complete code for data preprocessing, model training, and prediction.
 - `final_csv`: Submission file containing predicted probabilities for the test dataset.
 
 ## Requirements
@@ -76,7 +78,7 @@ The dataset consists of two main files:
    pip install -r requirements.txt
    ```
 
-3. Run the Jupyter notebook `vaccine_prediction.ipynb` to execute the code step-by-step or view the results.
+3. Run the Jupyter notebook `vaccine_prediction_dishant_bothra.ipynb` to execute the code step-by-step or view the results.
 
 4. Modify parameters or models as needed for further experimentation.
 
