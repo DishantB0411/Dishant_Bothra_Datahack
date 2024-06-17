@@ -1,8 +1,3 @@
-# Dishant_Bothra_Datahack
-Certainly! Here's a more detailed README.md for your GitHub repository, including a comprehensive description of each step:
-
----
-
 # Vaccine Prediction Model
 
 This repository contains the code for predicting the likelihood of individuals getting vaccinated against XYZ and seasonal influenza. The prediction is performed using machine learning models, primarily logistic regression, after extensive data preprocessing and feature engineering.
